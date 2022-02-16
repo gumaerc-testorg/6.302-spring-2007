@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Final exam on Feedback Systems from Fall 2007.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-302-feedback-systems-spring-2007/07228fe255c801d99a25a56c0496e635_final07.pdf
+file: /media/courses/6-302-feedback-systems-spring-2007/07228fe255c801d99a25a56c0496e635_final07.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: final07.pdf
 uid: 07228fe2-55c8-01d9-9a25-a56c0496e635

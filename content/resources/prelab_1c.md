@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Prelab exercises for a lab on the design of a position control loop.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-302-feedback-systems-spring-2007/3915430085314c7601e80eb0c163fbd1_prelab_1c.pdf
+file: /media/courses/6-302-feedback-systems-spring-2007/3915430085314c7601e80eb0c163fbd1_prelab_1c.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: prelab_1c.pdf
 uid: 39154300-8531-4c76-01e8-0eb0c163fbd1

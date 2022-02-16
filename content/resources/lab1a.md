@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lab assignment on specifying a mathematical model for physical system.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-302-feedback-systems-spring-2007/2473cb2e5cec887ce707b31e41fb359c_lab1a.pdf
+file: /media/courses/6-302-feedback-systems-spring-2007/2473cb2e5cec887ce707b31e41fb359c_lab1a.pdf
 file_type: application/pdf
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Document
 title: lab1a.pdf
 uid: 2473cb2e-5cec-887c-e707-b31e41fb359c

@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-302-feedback-systems-spring-2007/ce14ca3f15871bb02c077d16421a9b1a_quiz1.pdf
+file: /media/courses/6-302-feedback-systems-spring-2007/ce14ca3f15871bb02c077d16421a9b1a_quiz1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+ocw_type: OCWFile
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: quiz1.pdf
 uid: ce14ca3f-1587-1bb0-2c07-7d16421a9b1a
