@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d764ed48-894c-f4be-6a81-65cf1ec5a2c6
 resourcetype: Document
 title: maglev.pdf
 uid: e1dd4cd3-f18e-ad7d-2052-d4a36957b4e1

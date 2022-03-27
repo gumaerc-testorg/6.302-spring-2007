@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d764ed48-894c-f4be-6a81-65cf1ec5a2c6
 resourcetype: Document
 title: motor_lab.pdf
 uid: 455e9564-e2d7-bea9-7bbd-1a0e588e8023

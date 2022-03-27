@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
+parent_uid: 6a7d6d52-fb6c-7c92-c02b-590d8f6bd242
 resourcetype: Other
 title: pzapplet.jar
 uid: 42d6e14d-d3df-ab61-d7d2-30cc95a04648

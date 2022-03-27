@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: d764ed48-894c-f4be-6a81-65cf1ec5a2c6
 resourcetype: Document
 title: phaselockpage.pdf
 uid: 2dd50367-9e10-5926-cee1-c2808c2a5618
