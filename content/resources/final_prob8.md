@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/6-302-feedback-systems-spring-2007/61fdf4f90252d5e18b7d9e7f472f939f_final_prob8.pdf
+file: /courses/6-302-feedback-systems-spring-2007/61fdf4f90252d5e18b7d9e7f472f939f_final_prob8.pdf
 file_type: application/pdf
 learning_resource_types:
 - Exams

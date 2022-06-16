@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides tools and resources for use in the course.
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

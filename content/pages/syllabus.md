@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section provides an introduction to the course and information
+  on course content, the laboratory, prerequisites, the course reference, and other
+  tips.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
