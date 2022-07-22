@@ -5,6 +5,7 @@ file: /courses/6-302-feedback-systems-spring-2007/07228fe255c801d99a25a56c0496e6
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: final07.pdf
 uid: 07228fe2-55c8-01d9-9a25-a56c0496e635
 ---
 Final exam on Feedback Systems from Fall 2007.
-

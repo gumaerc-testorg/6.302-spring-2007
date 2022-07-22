@@ -5,6 +5,7 @@ file: /courses/6-302-feedback-systems-spring-2007/455e9564e2d7bea97bbd1a0e588e80
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: motor_lab.pdf
 uid: 455e9564-e2d7-bea9-7bbd-1a0e588e8023
 ---
 Take-home quiz on the motor lab.
-

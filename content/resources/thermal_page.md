@@ -6,6 +6,7 @@ file: /courses/6-302-feedback-systems-spring-2007/e2db44a6a701dd36bb9fc434db8570
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: thermal_page.pdf
 uid: e2db44a6-a701-dd36-bb9f-c434db8570fe
 ---
 Lab assignment to evaluate the dynamics of a temperature control system and design a compensator for it.
-

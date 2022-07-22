@@ -5,6 +5,7 @@ file: /courses/6-302-feedback-systems-spring-2007/e683d177d1b34c55320e35f8d344dc
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab1b.pdf
 uid: e683d177-d1b3-4c55-320e-35f8d344dcf2
 ---
 Lab assignment on the design of a velocity control loop.
-

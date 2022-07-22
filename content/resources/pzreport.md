@@ -5,6 +5,7 @@ file: /courses/6-302-feedback-systems-spring-2007/5a221e808a5d8a7b9add0d8d881904
 file_type: application/pdf
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection

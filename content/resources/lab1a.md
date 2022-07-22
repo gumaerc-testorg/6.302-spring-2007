@@ -5,6 +5,7 @@ file: /courses/6-302-feedback-systems-spring-2007/2473cb2e5cec887ce707b31e41fb35
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lab1a.pdf
 uid: 2473cb2e-5cec-887c-e707-b31e41fb359c
 ---
 Lab assignment on specifying a mathematical model for physical system.
-

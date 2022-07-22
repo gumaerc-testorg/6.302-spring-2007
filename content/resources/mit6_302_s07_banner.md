@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: Four screencaps of the instructor lectuering.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Video Resources
 parent_type: CourseSection
@@ -17,4 +18,3 @@ title: MIT6_302S07_banner.jpg
 uid: ee70f204-3b43-3862-da38-fd53c83c350a
 ---
 A series of screencaps for the lecture videos.
-
