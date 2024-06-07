@@ -2,6 +2,7 @@
 content_type: resource
 description: A series of screencaps for the lecture videos.
 file: /courses/6-302-feedback-systems-spring-2007/ee70f2043b433862da38fd53c83c350a_MIT6_302_S07_banner.jpg
+file_size: 56780
 file_type: image/jpeg
 image_metadata:
   caption: ''

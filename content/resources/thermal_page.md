@@ -3,6 +3,7 @@ content_type: resource
 description: Lab assignment to evaluate the dynamics of a temperature control system
   and design a compensator for it.
 file: /courses/6-302-feedback-systems-spring-2007/e2db44a6a701dd36bb9fc434db8570fe_thermal_page.pdf
+file_size: 673024
 file_type: application/pdf
 learning_resource_types:
 - Labs

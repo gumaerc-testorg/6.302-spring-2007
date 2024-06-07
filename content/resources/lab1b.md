@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab assignment on the design of a velocity control loop.
 file: /courses/6-302-feedback-systems-spring-2007/e683d177d1b34c55320e35f8d344dcf2_lab1b.pdf
+file_size: 78365
 file_type: application/pdf
 learning_resource_types:
 - Labs

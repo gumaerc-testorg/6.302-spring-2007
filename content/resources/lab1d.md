@@ -2,6 +2,7 @@
 content_type: resource
 description: Lab assignment on the design of a position control loop.
 file: /courses/6-302-feedback-systems-spring-2007/7453d0439b769f24974e42591759fd0b_lab1d.pdf
+file_size: 75287
 file_type: application/pdf
 learning_resource_types:
 - Labs
