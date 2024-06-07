@@ -2,6 +2,7 @@
 content_type: resource
 description: Problem set.
 file: /courses/6-302-feedback-systems-spring-2007/c3dd82b5304adc1821ec249cd29cb935_ps7.pdf
+file_size: 88784
 file_type: application/pdf
 learning_resource_types:
 - Assignments

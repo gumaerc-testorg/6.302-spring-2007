@@ -2,6 +2,7 @@
 content_type: resource
 description: Prelab exercises for a lab on the design of a position control loop.
 file: /courses/6-302-feedback-systems-spring-2007/3915430085314c7601e80eb0c163fbd1_prelab_1c.pdf
+file_size: 46490
 file_type: application/pdf
 learning_resource_types:
 - Labs
