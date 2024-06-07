@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-302-feedback-systems-spring-2007/3a83a1b469234a7c096f0619ab54f9f1_final2.pdf
+file_size: 162120
 file_type: application/pdf
 learning_resource_types:
 - Exams

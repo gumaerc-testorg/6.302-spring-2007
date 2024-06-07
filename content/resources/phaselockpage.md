@@ -3,6 +3,7 @@ content_type: resource
 description: Lab assignment on phase lock loop operation using the CMOS 4046 integrated
   circuit.
 file: /courses/6-302-feedback-systems-spring-2007/2dd503679e105926cee1c2808c2a5618_phaselockpage.pdf
+file_size: 245968
 file_type: application/pdf
 learning_resource_types:
 - Labs

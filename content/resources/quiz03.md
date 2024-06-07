@@ -2,6 +2,7 @@
 content_type: resource
 description: Quiz on Feedback Systems from Fall 2004.
 file: /courses/6-302-feedback-systems-spring-2007/65ba8fded6c87dffb30197dcf4a5f970_quiz03.pdf
+file_size: 73579
 file_type: application/pdf
 learning_resource_types:
 - Exams
