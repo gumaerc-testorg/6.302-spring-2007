@@ -2,7 +2,7 @@
 content_type: resource
 description: Prelab exercises for a lab on specifying a mathematical model for physical
   system.
-file: /courses/6-302-feedback-systems-spring-2007/a42d03563654ed72d6d6060142b05184_prelab_1a.pdf
+file: /ol-ocw-studio-app/courses/6-302-feedback-systems-spring-2007/a42d03563654ed72d6d6060142b05184_prelab_1a.pdf
 file_size: 77006
 file_type: application/pdf
 learning_resource_types:

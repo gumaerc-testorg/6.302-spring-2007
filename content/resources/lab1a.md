@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lab assignment on specifying a mathematical model for physical system.
-file: /courses/6-302-feedback-systems-spring-2007/2473cb2e5cec887ce707b31e41fb359c_lab1a.pdf
+file: /ol-ocw-studio-app/courses/6-302-feedback-systems-spring-2007/2473cb2e5cec887ce707b31e41fb359c_lab1a.pdf
 file_size: 262823
 file_type: application/pdf
 learning_resource_types:
