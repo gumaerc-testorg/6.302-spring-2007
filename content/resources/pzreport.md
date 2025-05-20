@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-302-feedback-systems-spring-2007/5a221e808a5d8a7b9add0d8d8819044e_pzreport.pdf
+file: /courses/6-302-feedback-systems-spring-2007/5a221e808a5d8a7b9add0d8d8819044e_pzreport.pdf
 file_size: 91690
 file_type: application/pdf
 learning_resource_types:
