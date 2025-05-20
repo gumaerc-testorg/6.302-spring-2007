@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Prelab exercises for a lab on the design of a velocity control loop.
-file: /ol-ocw-studio-app/courses/6-302-feedback-systems-spring-2007/af353d672f4162778ba3bc05453a3aca_prelab_1b.pdf
+file: /courses/6-302-feedback-systems-spring-2007/af353d672f4162778ba3bc05453a3aca_prelab_1b.pdf
 file_size: 66162
 file_type: application/pdf
 learning_resource_types:
