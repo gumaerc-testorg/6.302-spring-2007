@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: Take-home quiz on the motor lab.
-file: /courses/6-302-feedback-systems-spring-2007/455e9564e2d7bea97bbd1a0e588e8023_motor_lab.pdf
+file: /ol-ocw-studio-app/courses/6-302-feedback-systems-spring-2007/455e9564e2d7bea97bbd1a0e588e8023_motor_lab.pdf
 file_size: 173733
 file_type: application/pdf
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
