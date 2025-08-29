@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Final exam on Feedback Systems from Fall 2004.
-file: /courses/6-302-feedback-systems-spring-2007/66d7f7e026b349c87151790fd794b67a_final04.pdf
+file: /ol-ocw-studio-app/courses/6-302-feedback-systems-spring-2007/66d7f7e026b349c87151790fd794b67a_final04.pdf
 file_size: 117488
 file_type: application/pdf
 learning_resource_types:
