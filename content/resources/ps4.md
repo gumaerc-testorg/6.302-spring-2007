@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem set.
-file: /courses/6-302-feedback-systems-spring-2007/c451feac7aa421f89858d94dc77655ae_ps4.pdf
+file: /ol-ocw-studio-app/courses/6-302-feedback-systems-spring-2007/c451feac7aa421f89858d94dc77655ae_ps4.pdf
 file_size: 124505
 file_type: application/pdf
 learning_resource_types:
