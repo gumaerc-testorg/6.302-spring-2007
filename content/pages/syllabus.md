@@ -50,5 +50,5 @@ The reference for this course will be Dr. Kent Lundberg's _Notes on Feedback Sys
 Other Tips
 ----------
 
-*   We use [MATLAB®](http://www.mathworks.com/) [](http://www.mathworks.com/)and [Octave](http://www.octave.org/) for some problem sets that require numerical computations.
-*   We recommend [xcircuit](http://lwn.net/2000/features/xcircuit/) for drawing schematics.
+*   We use {{% resource_link "96823148-954a-4139-9abf-3cf49c9e4ce6" "MATLAB®" %}} {{% resource_link "96823148-954a-4139-9abf-3cf49c9e4ce6" "" %}}and {{% resource_link "fe426285-8f25-4e8f-b222-bbbdd03daf04" "Octave" %}} for some problem sets that require numerical computations.
+*   We recommend {{% resource_link "86479ab6-035e-453d-8536-14f5b3c1b5d6" "xcircuit" %}} for drawing schematics.
